@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="480" style="max-width: 100%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ### 👨‍💻 About Me
 
