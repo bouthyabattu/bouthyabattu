@@ -102,7 +102,7 @@
 
 <p align="center">
   
-<img src="https://github-readme-stats.shion.dev/api?username=bouthyabattu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="60%" />
+<img src="https://github-readme-stats.shion.dev/api?username=bouthyabattu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="75%" />
   
 </p>
 
@@ -111,7 +111,7 @@
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=bouthyabattu&theme=dark&hide_border=false"
-    width="60%"
+    width="75%"
   />
 </p>
 
@@ -120,7 +120,7 @@
 
 <p align="center"> 
   
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bouthyabattu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_count=1800" width="75%" /> 
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bouthyabattu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_count=1800" width="75%" /> 
 
 </p>
 
