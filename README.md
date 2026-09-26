@@ -120,7 +120,7 @@
 
 <p align="center"> 
   
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bouthyabattu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="60%" /> 
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bouthyabattu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_count=1800" width="75%" /> 
 
 </p>
 
@@ -130,7 +130,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bouthyabattu&theme=react-dark&hide_border=true&area=true&custom_title=bouthya%20battu's%20Contribution%20Graph"
+    src="https://raw.githubusercontent.com/bouthyabattu/bouthyabattu/main/assets/contribution-graph.svg""
     width="100%"
     alt="Contribution Graph"
   />
